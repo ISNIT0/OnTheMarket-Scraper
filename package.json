@@ -1,29 +1,29 @@
 {
-  "name": "zoopla-scraper",
+  "name": "onthemarket-scraper",
   "version": "0.1.0",
-  "description": "Easily scrape zoopla property data.",
+  "description": "Easily scrape OnTheMarket property data.",
   "author": "Joe Reeve <joseph.reeve@googlemail.com>",
   "dependencies": {
     "cheerio": "0.19.x",
     "sync-request": "2.x.x"
   },
   "engine": "node >= 0.4.1",
-  "main": "ZooplaScraper.js",
+  "main": "OnTheMarketScraper.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "Zoopla",
+    "OnTheMarket",
     "property",
     "scraper"
   ],
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ISNIT0/Zoopla-Scraper"
+    "url": "https://github.com/ISNIT0/OnTheMarket-Scraper"
   },
   "bugs": {
-    "url": "https://github.com/ISNIT0/Zoopla-Scraper/issues"
+    "url": "https://github.com/ISNIT0/OnTheMarket-Scraper/issues"
   },
-  "homepage": "https://github.com/ISNIT0/Zoopla-Scraper"
+  "homepage": "https://github.com/ISNIT0/OnTheMarket-Scraper"
 }
