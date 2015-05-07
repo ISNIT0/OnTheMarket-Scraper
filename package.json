@@ -1,6 +1,6 @@
 {
   "name": "onthemarket-scraper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Easily scrape OnTheMarket property data.",
   "author": "Joe Reeve <joseph.reeve@googlemail.com>",
   "dependencies": {
