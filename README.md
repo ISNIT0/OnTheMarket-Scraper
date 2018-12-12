@@ -1,4 +1,6 @@
 # OnTheMarket-Scraper
+![Safe NPM](https://safenpm.herokuapp.com/status/onthemarket-scraper.png)
+
 Easily Scrape OnTheMarket property data
 
 To get all properties in an outcode and first page:
